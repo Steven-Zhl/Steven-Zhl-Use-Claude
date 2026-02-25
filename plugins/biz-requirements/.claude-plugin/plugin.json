@@ -2,8 +2,8 @@
     "name": "biz-requirements",
     "description": "专用于完善需求，形成需求文档的插件",
     "version": "1.0.0",
-    "owner": {
+    "author": {
         "name": "Steven-Zhl",
-        "email": "Steven-Zhl@outlook.com"
+        "email": "StevenZhl1001@gmail.com"
     }
 }
